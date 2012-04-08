@@ -1,4 +1,8 @@
-Backbone app structure
+Boneimage
+=========
+
+image viewer based on BackboneJS, Sinatra and Couchdb
+-----------------------------------------------------
 
 Requirements:
 
