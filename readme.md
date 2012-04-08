@@ -1,4 +1,4 @@
-# Backbone app structure
+# Boneimage
 
 ## Requirements:
 
@@ -9,9 +9,8 @@
 
 * `$ git clone git@github.com:ghn/Boneimage.git`
 * `$ cd Boneimage`
-* `$ couchdb`
+* `$ couchdb`, create a database "boneimage", then launch the app
 
-## Create a database "boneimage", then launch the app
-
-- `$ shotgun app.rb`
-- `$ open http://0.0.0.0:9393`
+## Launch
+* `$ shotgun app.rb`
+* `$ open http://0.0.0.0:9393`
